@@ -1,14 +1,18 @@
 **Full-stack web developer passionate about front-end development and UX/UI design.**
 
+
+
 🖥 **LANGUAGES & FRAMEWORKS**
 
 JavaScript | HTML/CSS | PHP | MySQL/SQL | Bootstrap | Markdown | Python
 
 
 
+
 🛠 **TOOLS & PLATFORMS**
 
 Git/GitHub | Figma | WordPress | phpMyAdmin | Visual Studio Code | Adobe CC | Node & npm | LAMP/WAMP Stack | Slack
+
 
 
 
