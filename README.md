@@ -1,4 +1,4 @@
-**Full-stack web developer passionate about front-end development and UX/UI design.**
+### Full-stack web developer passionate about front-end development and UX/UI design.
 
 
 
