@@ -18,7 +18,7 @@ Git/GitHub | Figma | WordPress | phpMyAdmin | Visual Studio Code | Adobe CC | No
 
 📕 **CURRENT INTERESTS**
 
-Vue.js | UX/UI Design Principles | Responsive Web Design | WordPress Development | SEO, Social Media, Branding & Content | Marketing | Entrepreneurship
+WordPress Development | UX/UI Design Principles | Responsive Web Design |  SEO, Social Media, Branding & Content | Marketing | Entrepreneurship
 
 
 
